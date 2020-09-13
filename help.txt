@@ -1,10 +1,17 @@
+                                                  GIT COMMANDS
+git config user.name "#yourname" // to tell your name , must be done on every new computer
+git config user.email "#youremail" // to tell your email , must be done on every new computer
+git commit -m "#yourmessage" // to give a message for the latest update
+git commit -m "#yourmessage" // to give a message for the latest update
+
+
                                                    WORD MEANINGS
 
 integers : whole number
 floating point number : decimal number
 
 
-                                                     COMMANDS
+                                                  PYTHON COMMANDS
 
 print : prints a line
 print(mystring) : prints mystring (don't define anything without quotations)
