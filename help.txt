@@ -1,0 +1,15 @@
+                                                   WORD MEANINGS
+
+integers : whole number
+floating point number : decimal number
+
+
+                                                     COMMANDS
+
+print : prints a line
+print(mystring) : prints mystring (don't define anything without quotations)
+hello = "hello" : this is an example to define something ex. = hi = "hi"
+hello = "hello" : you can define more than one thing in one line
+mylist = [] : this creates a list
+mylist.append(1) : this puts 1 in a list
+print(mylist[1]) : prints position 1
