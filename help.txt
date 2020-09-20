@@ -2,7 +2,6 @@
 git config user.name "#yourname" // to tell your name , must be done on every new computer
 git config user.email "#youremail" // to tell your email , must be done on every new computer
 git commit -m "#yourmessage" // to give a message for the latest update
-git commit -m "#yourmessage" // to give a message for the latest update
 
 
                                                    WORD MEANINGS
@@ -14,12 +13,12 @@ floating point number : decimal number
                                                     WEBSITES
  https://www.learnpython.org/en : python learn thing
 
-                                                  PYTHON COMMANDS
+                                                  PYTHON COMMANDSy
 
 print : prints a line
 print(mystring) : prints mystring (don't define anything without quotations)
 hello = "hello" : this is an example to define something ex. = hi = "hi"
-hello = "hello" : you can define more than one thing in one line
+hello = "hello, world" : you can define more than one thing in one line
 mylist = [] : this creates a list
 mylist.append(#) : this puts a number in a list
 print(mylist[#]) : prints position number
